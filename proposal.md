@@ -13,3 +13,7 @@ The main point of this project is to show how NO<sub>2</sub> and CO can be used 
 ![Sample Image](NO2_TROPOMI.png)
 
 The above image shows a sample plot of TROPOMI NO<sub>2</sub> data. I plan on creating similar plots but over the state of California. In addition to daily plots such as the one pictured above, I also plan on calculating weekly averages to show how the concentrations of NO<sub>2</sub> and CO compare during the lifespan of a fire. My final plan for this data is to compare years that were considered high fire seasons to years that were considered low fire seasons. This could be an indication of long-term impacts of wildfires.
+
+![AQS Image](20200819.png)
+
+The map plotted above shows the TROPOMI carbon monoxide data for August 19, 2020. The final step of my project, if time allows, is to compare the TROPOMI data to the in-situ AQS data pictured on the map. The AQS data is obtained from the EPA and is displayed as a daily average. In addition to comparing the satellite data to the stationary data, I would also like to look at the ratios of NO<sub>2</sub>, CO, ozone, and PM 2.5 using the satellite data as well as the stationary data.
