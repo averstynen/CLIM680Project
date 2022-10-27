@@ -1,2 +1,2 @@
 
-[Proposal] (/CLIM680Project/Proposal.md)
+[Proposal] (proposal.html)
