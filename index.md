@@ -1,2 +1,2 @@
 
-proposal
+/proposal.html
