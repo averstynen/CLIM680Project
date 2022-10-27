@@ -9,3 +9,7 @@ observe column measurements of nitrogen dioxide, carbon monoxide, ozone, and For
 monoxide.
 
 The main point of this project is to show how NO<sub>2</sub> and CO can be used as indicators of a wildfire. The satellite images obtained from TROPOMI can also be used to show the extent to which the smoke and atmospheric constituents released by the fire can travel. This can help us understand health and community impacts of wildfires in locations farther from the source region.
+
+![Sample Image](NO2_TROPOMI.png)
+
+The above image shows a sample plot of TROPOMI NO<sub>2</sub> data. I plan on creating similar plots but over the state of California. In addition to daily plots such as the one pictured above, I also plan on calculating weekly averages to show how the concentrations of NO<sub>2</sub> and CO compare during the lifespan of a fire. My final plan for this data is to compare years that were considered high fire seasons to years that were considered low fire seasons. This could be an indication of long-term impacts of wildfires.
