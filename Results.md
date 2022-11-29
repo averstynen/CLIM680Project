@@ -32,6 +32,20 @@
 | ----------- | ----------------- |
 | ![August Complex Time Series](augcomplex_timeseries.png) | ![August Complex Ratio Time Series](augcomplex_ratiotime.png) |
 
+## SCU Lightning Complex
+
+| Nitrogen Dioxide | Carbon Monoxide | NO<sub>2</sub> / CO Ratio |
+| ---------------- | --------------- | ------------------------- |
+| ![SCU Lightning NO2](sculight_no2map.png) | ![SCU Lightning CO](sculight_comap.png) | ![SCU Lightning Ratio](sculight_ratiomap.png) |
+
+| NO<sub>2</sub> Anomalies | CO Anomalies |
+| ------------------------ | ------------ |
+| ![SCU Lightning NO2 Anomalies](sculight_no2anoms.png) | ![SCU Lightning CO Anomalies](sculight_coanoms.png) |
+
+| Time Series | Ratio Time Series |
+| ----------- | ----------------- |
+| ![SCU Lightning Time Series](sculight_timeseries.png) | ![SCU Lightning Ratio Time Series](sculight_ratiotime.png) |
+
 
 ## Dixie Fire
 
