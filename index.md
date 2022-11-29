@@ -37,7 +37,7 @@ Because of the size of the dataset, I decided to crop the dataset to only includ
 
 ### Linear Regression
 
-## Results
+## [Results](https://averstynen.github.io/CLIM680Project/Results.html)
 
 ## Summary
 
