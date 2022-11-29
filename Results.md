@@ -31,3 +31,18 @@
 | Time Series | Ratio Time Series |
 | ----------- | ----------------- |
 | ![August Complex Time Series](augcomplex_timeseries.png) | ![August Complex Ratio Time Series](augcomplex_ratiotime.png) |
+
+
+## Dixie Fire
+
+| Nitrogen Dioxide | Carbon Monoxide | NO<sub>2</sub> / CO Ratio |
+| ---------------- | --------------- | ------------------------- |
+| ![Dixie Fire NO2](dixie_no2map.png) | ![Dixie Fire CO](dixie_comap.png) | ![Dixie Fire Ratio](dixie_ratiomap.png) |
+
+| NO<sub>2</sub> Anomalies | CO Anomalies |
+| ------------------------ | ------------ |
+| ![Dixie Fire NO2 Anomalies](dixie_no2anoms.png) | ![Dixie Fire CO Anomalies](dixie_coanoms.png) |
+
+| Time Series | Ratio Time Series |
+| ----------- | ----------------- |
+| ![Dixie Fire Time Series](dixie_timeseries.png) | ![Dixie Fire Ratio Time Series](dixie_ratiotime.png) |
