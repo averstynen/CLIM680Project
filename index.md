@@ -20,22 +20,26 @@ Because of the size of the dataset, I decided to crop the dataset to only includ
 
 ## Code and Implications
 
-### Slicing NetCDF file
+### [Slicing NetCDF file](https://averstynen.github.io/CLIM680Project/CropTROPOMI.ipynb)
 
 
-### Regridding Data
+### [Regridding Data](https://averstynen.github.io/CLIM680Project/tropomi_regrid.ipynb)
 
-### Plotting
+### [Plotting](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
 
 ### Groupby
 
-### Anomalies
+### [Subplots](https://averstynen.github.io/CLIM680Project/ClimateData_subplots.ipynb)
 
-### Functions
+### [Anomalies](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
+
+### [Functions](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
 
 ### Animations
 
 ### Linear Regression
+
+### [Composites](https://averstynen.github.io/CLIM680Project/CLIM680_HW3_Attempt2.ipynb)
 
 ## [Results](https://averstynen.github.io/CLIM680Project/Results.html)
 
