@@ -54,9 +54,15 @@ This code is discussed above in the plotting section. The anomalies were calcula
 
 ### [Functions](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
 
+The majority of the functions I created were to create the plots discussed in the [Results](https://averstynen.github.io/CLIM680Project/Results.html) section. The first function is used to create a map of CO concentrations during each wildfire. There is also a function to create a map for the NO<sub>2</sub> concentrations. A third function was created to plot the ratio of NO<sub>2</sub> to CO concentrations. The fourth and fifth functions created maps like that pictured above that shows the anomalies of CO and NO<sub>2</sub> respectively. The sixth function creates a time series plotting NO<sub>2</sub> and CO concentrations on twin axes. This is important because the CO and NO<sub>2</sub> concentrations were different on a scale of about 1,000. By doing the twin axes, you are able to see spikes and drops in both concentrations.
+
 ### [Animations](https://averstynen.github.io/CLIM680Project/TROPOMI_monthlygif.ipynb)
 
+This code was not used for the results I'm showing today, but can be used to create an animation of a time series of CO and NO<sub>2</sub> concentrations.
+
 ### [Composites](https://averstynen.github.io/CLIM680Project/CLIM680_HW3_Attempt2.ipynb)
+
+For this project, I used the [Pacific/ North American teleconnection pattern (PNA)](https://psl.noaa.gov/data/correlation/pna.data) to compute my composites. Due to the short time span of my data, it was difficult to find a composite that had both positive and negative occurrences in the time span. A positive PNA is associated with high temperatures over the Western US and a possible decrease in the amount of precipitation observed by the Western US (NOAA, 2022).
 
 ## [Results](https://averstynen.github.io/CLIM680Project/Results.html)
 
