@@ -25,7 +25,6 @@ Because of the size of the dataset, I decided to crop the dataset to only includ
 The TROPOMI dataset consists of 25 swipes from pole to pole around the globe each day. Due to the large area covered by each swipe and the high resolution of the data, a single day of data was 1.5 GB. In order to download and work with a larger time range, I used this code to crop the orginal TROPOMI files down so that they only included the state of California and some surrounding areas. 
 
 ![Cropped Image](Cropped.png)
-Figure 1: Cropped TROPOMI data over California
 
 ### [Regridding Data](https://averstynen.github.io/CLIM680Project/tropomi_regrid.ipynb)
 
@@ -40,11 +39,18 @@ This code is the one used to create the plots included in the results section. I
 Due to wildfires being isolated events in time, it was difficult to use a Groupby function for my dataset for the purposes of my research. There is the possibility of missing wildfire events due to grouping or cause bias in data if there is one large fire that appears in the groupby function but is not a good characteristic of the entire subset. That being said, I did use grouping to create monthly plots of CO concentrations. 
 
 ![Groupby Image](CO_groupby.png)
-Monthly averages of carbon monoxide
 
 ### [Subplots](https://averstynen.github.io/CLIM680Project/ClimateData_subplots.ipynb)
 
+This code creates subplots that show the daily evolution of carbon monoxide over California. This can be used to show the impacts of wildfires on carbon monoxide concentrations. The current settings in the code are for a time span where there is a large area of wildfires starting in the middle of the time series. This way it can show the evolution of the CO concentrations before and after the fires start.
+
+![Subplots Image](co_subplots.png)
+
 ### [Anomalies](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
+
+This code is discussed above in the plotting section. The anomalies were calculated as differences of each fire from the seasonal average. The plots are included in the [Results](https://averstynen.github.io/CLIM680Project/Results.html) section.
+
+![Anomalies Image](ant_coanoms.png)
 
 ### [Functions](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
 
