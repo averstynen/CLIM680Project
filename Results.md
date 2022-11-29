@@ -47,6 +47,21 @@
 | ![SCU Lightning Time Series](sculight_timeseries.png) | ![SCU Lightning Ratio Time Series](sculight_ratiotime.png) |
 
 
+## LNU Lightning Complex
+
+| Nitrogen Dioxide | Carbon Monoxide | NO<sub>2</sub> / CO Ratio |
+| ---------------- | --------------- | ------------------------- |
+| ![LNU Lightning NO2](lnulight_no2map.png) | ![LNU Lightning CO](lnulight_comap.png) | ![LNU Lightning Ratio](lnulight_ratiomap.png) |
+
+| NO<sub>2</sub> Anomalies | CO Anomalies |
+| ------------------------ | ------------ |
+| ![LNU Lightning NO2 Anomalies](lnulight_no2anoms.png) | ![LNU Lightning CO Anomalies](lnulight_coanoms.png) |
+
+| Time Series | Ratio Time Series |
+| ----------- | ----------------- |
+| ![LNU Lightning Time Series](lnulight_timeseries.png) | ![LNU Lightning Ratio Time Series](lnulight_ratiotime.png) |
+
+
 ## Dixie Fire
 
 | Nitrogen Dioxide | Carbon Monoxide | NO<sub>2</sub> / CO Ratio |
