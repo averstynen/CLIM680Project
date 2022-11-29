@@ -68,6 +68,8 @@ For this project, I used the [Pacific/ North American teleconnection pattern (PN
 
 ## Summary
 
+Carbon monoxide and nitrogen dioxide are both constituents that are released by wildfires and cities. According to the NO<sub>2</sub> and CO plots for the August Complex, NO<sub>2</sub> is high in that area, but not as high as other regions of the state. For the CO maps, you can clearly see the region of the August Complex as higher values. The ratio map does not indicate a higher ratio at the location of the wildfire. This could be due to the fact that there is an area of extremely high NO<sub>2</sub> values in Southern California. For the anomaly plots, you can again obviously see the August Complex in the CO anomalies. You can also slightly see it in the NO<sub>2</sub> anomalies. For the time series, you can see the obvious peak in NO<sub>2</sub> values on the day that the wildfire started. As for CO, there was actually a delay of a few days before CO spikes. The ratio also shows a large spike at the time of the fire. It's possisble that the spike could be even larger if there were not a delay in the CO spike. 
+
 ## Conda Environment
 
 /home/averstyn/clim_data4.yml
