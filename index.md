@@ -22,12 +22,19 @@ Because of the size of the dataset, I decided to crop the dataset to only includ
 
 ### [Slicing NetCDF file](https://averstynen.github.io/CLIM680Project/CropTROPOMI.ipynb)
 
+The TROPOMI dataset consists of 25 swipes from pole to pole around the globe each day. Due to the large area covered by each swipe and the high resolution of the data, a single day of data was 1.5 GB. In order to download and work with a larger time range, I used this code to crop the orginal TROPOMI files down so that they only included the state of California and some surrounding areas. 
+
+![Cropped Image](Cropped.png)
 
 ### [Regridding Data](https://averstynen.github.io/CLIM680Project/tropomi_regrid.ipynb)
 
+After cropping the dataset, I had to regrid the data to a normal grid. Originally, the TROPOMI datasets are set using scanline and ground pixel coordinates. The dataset did have latitude and longitude as part of the coordinates, but not as part of the dimensions. Using this regridding code, I was able to plot the data onto a normal lat-long grid.
+
 ### [Plotting](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
 
-### Groupby
+This code is the one used to create the plots included in the results section. I used time slicing in order to select the dates of specific fires. I then took a time mean over those dates to create NO<sub>2</sub> and CO plots for each fire. I also normalized the NO<sub>2</sub> and CO values so that the plots were a range from 0 to 1. I then calculated anomalies of NO<sub>2</sub> and CO values during the time of each wildfire compared to the full time period of August through October of the year of the fire. This study focuses on fires during the 2020 and 2021 seasons. The next calculation I did was dividing the NO<sub>2</sub> values by the CO values to analyze the ratio of the constituents. The final step included in this code was using the "nearest" method in the sel function to choose the coordinates of the TROPOMI data that was the closest to the coordinates of the wildfire being observed. After doing this, I was able to create time series of NO<sub>2</sub>, CO, and the ratio between them. The plots and images associated with this section are included on the [Results](https://averstynen.github.io/CLIM680Project/Results.html) page.
+
+### [Groupby](https://averstynen.github.io/CLIM680Project/CLIM680_HW2_Attempt2.ipynb)
 
 ### [Subplots](https://averstynen.github.io/CLIM680Project/ClimateData_subplots.ipynb)
 
@@ -35,9 +42,7 @@ Because of the size of the dataset, I decided to crop the dataset to only includ
 
 ### [Functions](https://averstynen.github.io/CLIM680Project/ClimateData_Project.ipynb)
 
-### Animations
-
-### Linear Regression
+### [Animations](https://averstynen.github.io/CLIM680Project/TROPOMI_monthlygif.ipynb)
 
 ### [Composites](https://averstynen.github.io/CLIM680Project/CLIM680_HW3_Attempt2.ipynb)
 
