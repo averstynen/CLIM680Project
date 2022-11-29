@@ -68,4 +68,16 @@ For this project, I used the [Pacific/ North American teleconnection pattern (PN
 
 ## Summary
 
-[NO2 Plots](https://averstynen.github.io/CLIM680Project/NO2.html)
+## Conda Environment
+
+/home/averstyn/clim_data4.yml
+
+## References
+
+Veefkind, J.P, et. al. (2012). TROPOMI on the ESA Sentinel-5 Precursor: A GMES mission for global observations of the atmospheric composition for climate, air quality and ozone layer applications. Remote Sensing of Environment, (120), 70-83. https://doi.org/10.1016/j.rse.2011.09.027
+
+Download data from https://disc.gsfc.nasa.gov/datasets?keywords=tropomi&start=1920-01-01&end=2022-09-10&page=1
+
+CAL Fire.(n.d.). Incidents. https://www.fire.ca.gov/incidents/
+
+Pacific/North American (PNA). Climate prediction center - pacific/north american (PNA). (n.d.). Retrieved November 29, 2022, from https://www.cpc.ncep.noaa.gov/data/teledoc/pna.shtml 
