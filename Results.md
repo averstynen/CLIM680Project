@@ -13,36 +13,21 @@
 | 8 | Antelope Fire | 8/1/2021  | 10/15/2021 | (41.528,-121.915) | 145,632    | Siskiyou     |
 | 9 | McFarland Fire | 7/30/2021  | 9/16/2021 | (40.35,-123.034) | 122,653    | Shasta, Trinity and Tehama     |
 
+## Wildfire Locations
 
 ![Wildfire Locations](wildfire_locations.png)
 
 
 ## August Complex
 
-### Average Nitrogen Dioxide Plot
+| Nitrogen Dioxide | Carbon Monoxide | NO<sub>2</sub> / CO Ratio |
+| ---------------- | --------------- | ------------------------- |
+| ![August Complex NO2](augcomplex_no2map.png) | ![August Complex CO](augcomplex_comap.png) | ![August Complex Ratio](augcomplex_ratiomap.png) |
 
-![August Complex NO2](augcomplex_no2map.png)
+| NO<sub>2</sub> Anomalies | CO Anomalies |
+| ------------------------ | ------------ |
+| ![August Complex NO2 Anomalies](augcomplex_no2anoms.png) | ![August Complex CO Anomalies](augcomplex_coanoms.png) |
 
-### Average Carbon Monoxide Plot
-
-![August Complex CO](augcomplex_comap.png)
-
-### Average Ratio Plot
-
-![August Complex Ratio](augcomplex_ratiomap.png)
-
-### Average NO<sub>2</sub> Anomalies
-
-![August Complex NO2 Anomalies](augcomplex_no2anoms.png)
-
-### Average Carbon Monoxide Anomalies
-
-![August Complex CO Anomalies](augcomplex_coanoms.png)
-
-### NO<sub>2</sub> and CO Time Series
-
-![August Complex Time Series](augcomplex_timeseries.png)
-
-### Ratio Time Series
-
-![August Complex Ratio Time Series](augcomplex_ratiotime.png)
+| Time Series | Ratio Time Series |
+| ----------- | ----------------- |
+| ![August Complex Time Series](augcomplex_timeseries.png) | ![August Complex Ratio Time Series](augcomplex_ratiotime.png) |
